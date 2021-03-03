@@ -1,0 +1,2 @@
+# Currency-Exchange
+In this assignment I was tasked with writing code for the convertEurToUsd method which converts euros to dollars at a given exchange rate. I was required to use a return statement to return the result from the convertEurToUsed method, call the method twice in the main method with any arguments, and display the results each time on a new line. This was completed all within the Java programming language.
